@@ -11,4 +11,5 @@
 .WeatherInfo h2 {
     font-size: 36px;
     margin: 0;
+    white-space: nowrap;
 }
