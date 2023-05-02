@@ -1,0 +1,30 @@
+.FormGroup {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.FormGroup label {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.FormGroup input {
+    font-size: 20px;
+    padding: 5px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+.FormGroup button {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 12px 24px; /* Some padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make it a block element */
+    font-size: 16px; /* Font size */
+    border-radius: 4px; /* Rounded corners */
+    margin-top: 15px;
+}
